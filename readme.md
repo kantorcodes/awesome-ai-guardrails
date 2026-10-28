@@ -214,6 +214,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | Name | Category | Description |
 |------|----------|-------------|
 | [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) | `security-and-privacy` | Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call arguments. |
+| [HOL Guard](https://github.com/hashgraph-online/hol-guard) | `security-and-privacy` | Local-first policy checks for supported AI coding-agent actions, including shell commands, secret-file reads, MCP changes, and skill or plugin installs. |
 | [guardrails](https://github.com/guardrails-ai/guardrails) | `all` | Adding guardrails to large language models. |
 | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | `all` | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
 | [uqlm](https://github.com/cvs-health/uqlm) | `hallucination` | UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection. |
